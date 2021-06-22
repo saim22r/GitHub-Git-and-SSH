@@ -15,7 +15,9 @@
 - Copy and paste this .pub to GitHub. `Settings -> SSH keys -> New key`
   
 # Summary image of the steps
+Diagram showing the link between github, git and gitbash using SSH keys.
 - ![img.png](img.png) 
 
 # Simple Steps for pushing code from PyCharm to GitHub
+Simplified steps for pushing code.
 - ![img_1.png](img_1.png)
