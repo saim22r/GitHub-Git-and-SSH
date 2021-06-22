@@ -1,6 +1,6 @@
 # GitHub, Git and SSH key set up
 
-- Download and install GitBash and Git version control onto your computer. [https://git-scm.com/](Download Git)
+- Download and install GitBash and Git version control onto your computer.  [https://git-scm.com/](Download Git)
 - Create a GitHub account by visiting the GitHub homepage
 - Open GitBash from start button as an administrator to generate an SSH key
 - Copy and paste `s0sh-keygen -t rsa -b 4096 -C "your_email@example.com"` replacing the email with your Github email. This is for windows only
